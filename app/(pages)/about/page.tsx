@@ -24,7 +24,7 @@ const About = () => {
             </div>
             <div className='flex flex-col md:flex-row justify-center items-center gap-16'>
               <Image
-                src="/founder-1.png"
+                src="/eponym-img.png"
                 alt="founder"
                 className="object-cover"
                 layout="responsive"
