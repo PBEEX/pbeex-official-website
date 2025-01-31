@@ -22,7 +22,7 @@ const About = () => {
               <span className='border-t-4 border-brandred text-darkblue'>MEET OUR</span>
               <span className='text-brandred'> EPONYM</span>
             </div>
-            <div className='flex flex-col md:flex-row justify-center items-center gap-16'>
+            <div className='flex flex-col md:flex-row justify-center items-center rounded-xl gap-16'>
               <Image
                 src="/eponym-img.png"
                 alt="founder"
